@@ -12,9 +12,6 @@
   "directories": {
     "lib": "lib"
   },
-  "engines": {
-    "node": "~0.2"
-  },
   "dependencies": {
     "oauth-client": "~0.1.5"
   },
